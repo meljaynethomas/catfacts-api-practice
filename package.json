@@ -1,5 +1,6 @@
 {
   "name": "catfacts-api-practice",
+  "homepage": "https://meljaynethomas.github.io/catfacts-api-practice/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
